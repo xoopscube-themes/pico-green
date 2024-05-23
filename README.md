@@ -3,15 +3,15 @@
 [![XCL](https://img.shields.io/badge/XCL-Made%20with%20passion-b0201d?style=for-the-badge&labelColor=991015&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMTIgMjEuMzVsLTEuNDUtMS4zMkM1LjQgMTUuMzYgMiAxMi4yNyAyIDguNUMyIDUuNDEgNC40MiAzIDcuNSAzYzEuNzQgMCAzLjQxLjgxIDQuNSAyLjA4QzEzLjA5IDMuODEgMTQuNzYgMyAxNi41IDNDMTkuNTggMyAyMiA1LjQxIDIyIDguNWMwIDMuNzctMy40IDYuODYtOC41NSAxMS41M0wxMiAyMS4zNVoiLz48L3N2Zz4=)](https://github.com/xoopscube)
 
 [![License: MIT](https://shields.io./badge/license-MIT-green)](https://github.com/xoopscube-themes/xcl-picocss-157/blob/main/LICENSE)
-## ///// — XCL Pico Blue
+## ///// — XCL Pico Green
 
-XCL Theme Pico Blue : [https://xoopscube-themes.github.io/xcl-picocss-157](https://xoopscube-themes.github.io/xcl-picocss-157)
+XCL Theme Pico Green : [https://xoopscube-themes.github.io/](https://xoopscube-themes.github.io/)
 
-![XCL Theme Pico Blue](,/screenshot.png)
+![XCL Theme Pico Green](/screenshot.png)
 
 ---
 
-THEME | Pico Blue
+THEME | Pico Green
 ------------ | -------------
 Description | Theme built with [PicoCSS](https://github.com/picocss/pico)
 Render Engine | Smarty v2 and Smarty v3
@@ -36,7 +36,7 @@ License | MIT
 
 ## Overview
 
-🚧🛠 XCL THEME Pico Blue built with PicoCSS 2.0.6 for XOOPSCube XCL 2.4.0
+🚧🛠 XCL THEME Pico Green built with PicoCSS 2.0.6 for XOOPSCube XCL 2.4.0
 
 Render Engine - Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.
 This implies that PHP code is application logic, and is separated from the presentation, making it easier to customize theme and templates.
